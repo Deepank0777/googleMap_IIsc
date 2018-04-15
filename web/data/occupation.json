@@ -1,0 +1,152 @@
+{
+ "name": "AssemblyModelPro",
+ "children": [
+     {
+         "name": "AssemblyModelPro",
+         "children": [
+      {"name": "AssemblyModelPro 2216.76", "ID": "1.1.1", "size":600000}
+     ]
+     },
+  {
+   "name": "Housing Pro",
+   "children": [
+    {
+     "name": "Housing Pro 1073.585812095436",
+     "children": [
+      {"name": "Housing Pro 1073.58", "ID": "2.2.1", "size":288000}
+     ]
+    },
+    {
+     "name": "Aluminium At plant-RES S Demo7 687.9920848847661",
+     "children": [
+      {"name": "Aluminium At plant-RES S Demo7 687.99", "ID": "2.2.2", "size":186000}
+     ]
+    },
+    {
+     "name": "Production Mix At plant-RES S Demo7 687.9920848847661",
+     "children": [
+      {"name": "Production Mix plant-RES S Demo7 687.99", "ID": "2.2.3", "size":186000}
+     ]
+    },
+    {
+     "name": "Alluminiumtubes 385.59372721066995",
+     "children": [
+      {"name": "Alluminiumtubes ,385.59", "ID": "2.2.4", "size":102000}
+     ]
+    },
+    {
+     "name": "Heat at industrial furnace >100kW - RER S demo7 385.59372721067",
+     "children": [
+      {"name": "Heat at industrial furnace >100kW - RER S demo7, 385.59", "ID": "2.2.5", "size":102000}
+     ]
+    },
+    {
+     "name": "natural gas at industrial furnace >100kW - RER S demo7, 385.59372721067",
+     "children": [
+      {"name": "natural gas at industrial furnace >100kW - RER S demo7, 385.59", "ID": "2.2.6", "size":102000}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Thermos Jug",
+   "children": [
+    {
+     "name": "ThermosJug 670.0306479446921",
+     "children": [
+      {"name": "ThermosJug, 670.03", "ID": "3.3.1", "size":180000}
+     ]
+    },
+    {
+     "name": "Heat At industrial furnace>100kw-RER S demo7 385.59372721067",
+     "children": [
+      {"name": "Heat At industrial furnace>100kw-RER S demo7 ,385.59", "ID": "3.3.2", "size":102000}
+     ]
+    },
+    {
+     "name": "Natural Gas At industrial furnace>100kw-RER S demo7 ,385.59372721067",
+     "children": [
+      {"name": "Natural Gas At industrial furnace>100kw-RER S demo7 ,385.59", "ID": "3.3.3", "size":102000}
+     ]
+    },
+    {
+     "name": "Polypropylene At plant-RER S Demo7 284.4369207340221",
+     "children": [
+      {"name": "Polypropylene At plant-RER S Demo7, 284.43", "ID": "3.3.4", "size":78000}
+     ]
+    },
+    {
+     "name": "Granulate At plant-RER S Demo7 284.4369207340221",
+     "children": [
+      {"name": "Granulate At plant-RER S Demo7 ,284.43", "ID": "3.3.5", "size":78000}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Small parts",
+   "children": [
+    {
+     "name": "Small Parts 439.9376940275332",
+     "children": [
+      {"name": "Small Parts ,439.93", "ID": "4.4.1", "size":102000}
+     ]
+    },
+    {
+     "name": "Polypropylene At plant-RER S Demo7 284.4369207340221",
+     "children": [
+      {"name": "Polypropylene At plant-RER S Demo7 ,284.43", "ID": "4.4.2", "size":78000}
+     ]
+    },
+    {
+     "name": "Granulate At plant-RER S Demo7 ,284.4369207340221",
+     "children": [
+      {"name": "Production Mix plant-RES S Demo7 687.99", "ID": "4.4.3", "size":78000}
+     ]
+    },
+    {
+     "name": "PolyvinylChloride At regional storage RER S Demo7 95.3955294753943",
+     "children": [
+      {"name": "PolyvinylChloride At regional storage RER S Demo7, 95.39", "ID": "4.4.4", "size":24000}
+     ]
+    },
+    {
+     "name": "Copper At regional storage RER S Demo7 33.20884629294795",
+     "children": [
+      {"name": "Copper At regional storage RER S Demo7 ,33.20", "ID": "4.4.5", "size":6000}
+     ]
+    },
+    {
+     "name": "Steel At plant-RER S Demo7 26.8963975251688",
+     "children": [
+      {"name": "Steel At plant-RER S Demo7 ,26.89", "ID": "4.4.6", "size":6000}
+     ]
+    },
+    {
+     "name": "LowAlloyed At plant-RER S Demo7 26.8963975251688",
+     "children": [
+      {"name": "LowAlloyed At plant-RER S Demo7, 26.89", "ID": "4.4.7", "size":6000}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Mains",
+   "children": [
+    {
+     "name": "Mains",
+     "children": [
+      {"name": "Mains ,33.20", "ID": "5.5.1", "size":6000}
+     ]
+    },
+    {
+     "name": "Copper At regional storage RER S Demo7",
+     "children": [
+      {"name": "Copper At regional storage RER S Demo7 ,33.20", "ID": "5.5.2", "size":6000}
+     ]
+    }
+   ]
+  }
+  
+ ]
+}
